@@ -1,3 +1,5 @@
+//moi con duong dan den thanh Rome
+
 function preOrderPrice(originalPrice) {
   return originalPrice * 0.8;
 }

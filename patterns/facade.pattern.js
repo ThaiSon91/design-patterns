@@ -1,3 +1,5 @@
+//ben trong la he thong phuc tap, ngoai nguoi su dung het suc don gian
+
 class Discount {
   calc(value) {
     return value * 0.9;
