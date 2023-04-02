@@ -3,7 +3,7 @@
 class Leader {
   receiveRequest(offer) {
     console.log(`Result:: ${offer}`);
-    'console.log(`Bosss said Accept:: ${offer}`);
+    //console.log(`Bosss said Accept:: ${offer}`);
   }
 }
 
